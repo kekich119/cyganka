@@ -11,12 +11,12 @@ public class Main {
             Scanner in = new Scanner(System.in);
 
 
-            System.out.println("Добро пожаловать в <ДАЙ РУЧКУ, ПОГОДАЮ>");
-            System.out.println("Впишите существительное и глагол, типо <Я стану президентом> ");
+            System.out.println("Р”РѕР±СЂРѕ РїРѕР¶Р°Р»РѕРІР°С‚СЊ РІ <Р”РђР™ Р РЈР§РљРЈ, РџРћР“РђР”РђР®>");
+            System.out.println("РќР°РїРёС€Рё РЅР° РїРѕРґРѕР±РёРµ: <РЇ СЃС‚Р°РЅСѓ РїСЂРµР·РёРґРµРЅС‚РѕРј>");
             String predlosh = in.nextLine();
 
 
-            System.out.println("Шанс что" + " " + predlosh + ": " + getran());
+            System.out.println("ГГ Г­Г± Г·ГІГ®" + " " + predlosh + ": " + getran());
         }
     }
 
