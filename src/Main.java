@@ -16,7 +16,7 @@ public class Main {
             String predlosh = in.nextLine();
 
 
-            System.out.println("Øàíñ ÷òî" + " " + predlosh + ": " + getran());
+            System.out.println("Шанс что" + " " + predlosh + ": " + getran());
         }
     }
 
